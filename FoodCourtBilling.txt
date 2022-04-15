@@ -1,0 +1,1 @@
+This stores all the payment details at the Food Court.
